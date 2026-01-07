@@ -15,3 +15,6 @@ A cute, anime-inspired pixel art habit tracker designed to help you conquer your
 ## 📜 License
 
 This project is open-source. Feel free to use it to reach your 30-day goals! Ganbatte! (◕‿◕✿)
+<img width="1876" height="881" alt="Screenshot 2026-01-05 230037" src="https://github.com/user-attachments/assets/1dbaac4f-e1a0-487a-bf4c-7bcfd20c5181" />
+<img width="1863" height="903" alt="Screenshot 2026-01-05 230102" src="https://github.com/user-attachments/assets/865f197f-7c50-4614-8e4b-294de0765940" />
+<img width="1083" height="865" alt="Screenshot 2026-01-05 230157" src="https://github.com/user-attachments/assets/beb1ae25-5ce6-4ff3-b29d-1270c31445ac" />
